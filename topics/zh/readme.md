@@ -43,7 +43,7 @@
 27. Git
 28. 代码题
 29. 数据结构
-30. 设计模式
+30. [设计模式](./design-patterns.md)
 31. PHP
 32. Android
 33. Swift
